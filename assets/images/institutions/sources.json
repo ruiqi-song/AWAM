@@ -1,0 +1,81 @@
+[
+  {
+    "file": "casia.png",
+    "source": "https://ia.cas.cn/images/ia_logo.png",
+    "sha256": "b1dcb0dfa409d292e383a22e895a0a678d28b587feb08d9552606a90597ba549",
+    "processing": "none"
+  },
+  {
+    "file": "tsinghua.svg",
+    "source": "https://raw.githubusercontent.com/typst/packages/main/packages/preview/shuimu-touying-zen/0.1.0/assets/university-logo.svg",
+    "sha256": "39800ccc9c096ded645fb88fb2ed657390e03a1e330c6869627e7810db27abe6",
+    "processing": "none",
+    "reference": "https://vi.tsinghua.edu.cn/info/1150/1205.htm"
+  },
+  {
+    "file": "berkeley-seal.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_University_of_California%2C_Berkeley.svg",
+    "sha256": "ea2db45494acddf68943cb2c5c1517f5547da120ee2dba6eacf717548ee21b46",
+    "processing": "none"
+  },
+  {
+    "file": "berkeley-name.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/82/University_of_California%2C_Berkeley_logo.svg",
+    "sha256": "6709f43ea546cd9281d949ad476a65249c798638231574027e5cf5c89e822834",
+    "processing": "none"
+  },
+  {
+    "file": "ucas.png",
+    "source": "https://news.ucas.ac.cn/images/logo1.png",
+    "sha256": "4960b38277f8164ad0b3d9541f5cc2332a7eff467cdbb02f5109e2081eb4a17e",
+    "processing": "none"
+  },
+  {
+    "file": "xjtu.png",
+    "source": "https://vi.xjtu.edu.cn/images/a4-3xbblue.png",
+    "sha256": "f93d753588ec33209bb6ec381bca160fa6ac21df868146688ef5607a7439b1e3",
+    "processing": "none"
+  },
+  {
+    "file": "ntu.png",
+    "source": "https://www.ntu.edu.sg/ResourcePackages/NTU/assets/images/NTU_Logo.png",
+    "sha256": "45535780334a04c2384d82468ab49c2c8f6d5a77f717246dc42f0c6ff6451503",
+    "processing": "none"
+  },
+  {
+    "file": "northwestern-seal.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/56/Northwestern_University_seal.svg",
+    "sha256": "826ce13bad0edec87b18ced58b2a62873dfb70899d059b763606e55d372c0a3d",
+    "processing": "none"
+  },
+  {
+    "file": "northwestern-name.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/05/Northwestern_University_wordmark.svg",
+    "sha256": "cd9e8e55c2c29f8bde615c32273d2188b6513cd99c824d714a13fc2184b6ae15",
+    "processing": "none"
+  },
+  {
+    "file": "tum.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_of_the_Technical_University_of_Munich.svg",
+    "sha256": "9939cd861bbeaa86936db73cd62d39456639fcf5d9972dc0b60b73861dfdc632",
+    "processing": "none"
+  },
+  {
+    "file": "microsoft.png",
+    "source": "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png",
+    "sha256": "112fec798b78aa02e102a724b5cb1990c0f909bc1d8b7b1fa256eab41bbc0960",
+    "processing": "none"
+  },
+  {
+    "file": "tongji-seal.png",
+    "source": "https://www.tongji.edu.cn/images/badge.png",
+    "sha256": "960a958b3207547c86b2be37ec2d81377d0df7d1debd9407378f717b683b3497",
+    "processing": "none"
+  },
+  {
+    "file": "tongji-name.png",
+    "source": "https://www.tongji.edu.cn/images/name.png",
+    "sha256": "075ec146f6f7226973b0c41e4ea7f27fa783f2dc989802b3011020d1a8979694",
+    "processing": "none"
+  }
+]

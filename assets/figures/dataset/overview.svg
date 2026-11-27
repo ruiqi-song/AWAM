@@ -1,0 +1,405 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 2195" width="1200" height="2195" role="img" aria-labelledby="title desc"><title id="title">Complete AWAM dataset distributions</title><desc id="desc">All categories and counts, organized into four aligned pairs of BiCoord and RoboDojo distributions.</desc><style>text{font-family:Arial,Helvetica,sans-serif}.type{font-size:21px;fill:#edf2e6;font-weight:500}.bench{font-size:20px;fill:#b6ee65;font-weight:600}.label{font-size:14px;fill:#dee5d6}.count{font-size:13px;fill:#aab69d;font-variant-numeric:tabular-nums}.total{font-size:14px;fill:#c8d3be}</style>
+<text x="0" y="25" class="type" text-anchor="start">Task coverage</text>
+<rect x="0" y="45" width="586" height="794.0" rx="12" fill="#181d17"/>
+<text x="22" y="80" class="bench" text-anchor="start">BiCoord</text>
+<text x="564" y="80" class="total" text-anchor="end">474,067 indexed windows</text>
+<text x="22" y="116.0" class="label" text-anchor="start">match blocks with signs</text>
+<text x="22" y="134.0" class="count" text-anchor="start">56,932   ·   12.01%</text>
+<rect x="22.0" y="140.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="140.0" width="29.54" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="201.25" class="label" text-anchor="start">put objects cabinet</text>
+<text x="22" y="219.25" class="count" text-anchor="start">39,830   ·   8.40%</text>
+<rect x="22.0" y="225.25" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="225.25" width="20.66" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="286.5" class="label" text-anchor="start">cook</text>
+<text x="22" y="304.5" class="count" text-anchor="start">34,294   ·   7.23%</text>
+<rect x="22.0" y="310.5" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="310.5" width="17.79" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="371.75" class="label" text-anchor="start">exchange pots</text>
+<text x="22" y="389.75" class="count" text-anchor="start">33,915   ·   7.15%</text>
+<rect x="22.0" y="395.75" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="395.75" width="17.59" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="457.0" class="label" text-anchor="start">jigsaw</text>
+<text x="22" y="475.0" class="count" text-anchor="start">30,069   ·   6.34%</text>
+<rect x="22.0" y="481.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="481.0" width="15.60" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="542.25" class="label" text-anchor="start">exchange mics</text>
+<text x="22" y="560.25" class="count" text-anchor="start">29,809   ·   6.29%</text>
+<rect x="22.0" y="566.25" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="566.25" width="15.47" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="627.5" class="label" text-anchor="start">divide block tower</text>
+<text x="22" y="645.5" class="count" text-anchor="start">29,527   ·   6.23%</text>
+<rect x="22.0" y="651.5" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="651.5" width="15.33" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="712.75" class="label" text-anchor="start">collect pens</text>
+<text x="22" y="730.75" class="count" text-anchor="start">27,977   ·   5.90%</text>
+<rect x="22.0" y="736.75" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="736.75" width="14.51" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="798.0" class="label" text-anchor="start">clean table</text>
+<text x="22" y="816.0" class="count" text-anchor="start">27,235   ·   5.74%</text>
+<rect x="22.0" y="822.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="822.0" width="14.12" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="116.0" class="label" text-anchor="start">build tower with blocks</text>
+<text x="300" y="134.0" class="count" text-anchor="start">25,564   ·   5.39%</text>
+<rect x="300.0" y="140.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="140.0" width="13.26" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="201.25" class="label" text-anchor="start">stack bowls</text>
+<text x="300" y="219.25" class="count" text-anchor="start">23,921   ·   5.05%</text>
+<rect x="300.0" y="225.25" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="225.25" width="12.42" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="286.5" class="label" text-anchor="start">build bridge</text>
+<text x="300" y="304.5" class="count" text-anchor="start">22,796   ·   4.81%</text>
+<rect x="300.0" y="310.5" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="310.5" width="11.83" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="371.75" class="label" text-anchor="start">place plate and cup</text>
+<text x="300" y="389.75" class="count" text-anchor="start">20,981   ·   4.43%</text>
+<rect x="300.0" y="395.75" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="395.75" width="10.90" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="457.0" class="label" text-anchor="start">sweep block</text>
+<text x="300" y="475.0" class="count" text-anchor="start">17,600   ·   3.71%</text>
+<rect x="300.0" y="481.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="481.0" width="9.13" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="542.25" class="label" text-anchor="start">fetch block with roller</text>
+<text x="300" y="560.25" class="count" text-anchor="start">16,757   ·   3.53%</text>
+<rect x="300.0" y="566.25" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="566.25" width="8.68" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="627.5" class="label" text-anchor="start">handover block with bowls</text>
+<text x="300" y="645.5" class="count" text-anchor="start">13,506   ·   2.85%</text>
+<rect x="300.0" y="651.5" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="651.5" width="7.01" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="712.75" class="label" text-anchor="start">extract bottom block to top</text>
+<text x="300" y="730.75" class="count" text-anchor="start">12,934   ·   2.73%</text>
+<rect x="300.0" y="736.75" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="736.75" width="6.72" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="798.0" class="label" text-anchor="start">balance roller</text>
+<text x="300" y="816.0" class="count" text-anchor="start">10,420   ·   2.20%</text>
+<rect x="300.0" y="822.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="822.0" width="5.41" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<rect x="614" y="45" width="586" height="794.0" rx="12" fill="#181d17"/>
+<text x="636" y="80" class="bench" text-anchor="start">RoboDojo</text>
+<text x="1178" y="80" class="total" text-anchor="end">1,369,764 indexed windows</text>
+<text x="636" y="116.0" class="label" text-anchor="start">fasten screws</text>
+<text x="636" y="134.0" class="count" text-anchor="start">114,005   ·   8.32%</text>
+<rect x="636.0" y="140.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="140.0" width="20.47" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="156.11764705882354" class="label" text-anchor="start">play stacking toy</text>
+<text x="636" y="174.11764705882354" class="count" text-anchor="start">71,004   ·   5.18%</text>
+<rect x="636.0" y="180.11764705882354" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="180.11764705882354" width="12.74" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="196.23529411764707" class="label" text-anchor="start">pack objects into box</text>
+<text x="636" y="214.23529411764707" class="count" text-anchor="start">69,075   ·   5.04%</text>
+<rect x="636.0" y="220.23529411764707" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="220.23529411764707" width="12.40" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="236.35294117647058" class="label" text-anchor="start">make toast</text>
+<text x="636" y="254.35294117647058" class="count" text-anchor="start">60,746   ·   4.43%</text>
+<rect x="636.0" y="260.3529411764706" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="260.3529411764706" width="10.90" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="276.47058823529414" class="label" text-anchor="start">imitate sorting sequence</text>
+<text x="636" y="294.47058823529414" class="count" text-anchor="start">58,149   ·   4.25%</text>
+<rect x="636.0" y="300.47058823529414" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="300.47058823529414" width="10.46" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="316.5882352941177" class="label" text-anchor="start">fill pen holder</text>
+<text x="636" y="334.5882352941177" class="count" text-anchor="start">57,997   ·   4.23%</text>
+<rect x="636.0" y="340.5882352941177" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="340.5882352941177" width="10.41" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="356.70588235294116" class="label" text-anchor="start">build tower</text>
+<text x="636" y="374.70588235294116" class="count" text-anchor="start">55,998   ·   4.09%</text>
+<rect x="636.0" y="380.70588235294116" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="380.70588235294116" width="10.06" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="396.8235294117647" class="label" text-anchor="start">classify objects</text>
+<text x="636" y="414.8235294117647" class="count" text-anchor="start">55,902   ·   4.08%</text>
+<rect x="636.0" y="420.8235294117647" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="420.8235294117647" width="10.04" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="436.94117647058823" class="label" text-anchor="start">sweep blocks</text>
+<text x="636" y="454.94117647058823" class="count" text-anchor="start">53,939   ·   3.94%</text>
+<rect x="636.0" y="460.94117647058823" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="460.94117647058823" width="9.69" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="477.05882352941177" class="label" text-anchor="start">organize table</text>
+<text x="636" y="495.05882352941177" class="count" text-anchor="start">51,114   ·   3.73%</text>
+<rect x="636.0" y="501.05882352941177" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="501.05882352941177" width="9.18" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="517.1764705882354" class="label" text-anchor="start">dlc</text>
+<text x="636" y="535.1764705882354" class="count" text-anchor="start">49,171   ·   3.59%</text>
+<rect x="636.0" y="541.1764705882354" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="541.1764705882354" width="8.83" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="557.2941176470588" class="label" text-anchor="start">hang mugs</text>
+<text x="636" y="575.2941176470588" class="count" text-anchor="start">46,137   ·   3.37%</text>
+<rect x="636.0" y="581.2941176470588" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="581.2941176470588" width="8.29" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="597.4117647058823" class="label" text-anchor="start">sort nesting dolls by size</text>
+<text x="636" y="615.4117647058823" class="count" text-anchor="start">45,486   ·   3.32%</text>
+<rect x="636.0" y="621.4117647058823" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="621.4117647058823" width="8.17" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="637.5294117647059" class="label" text-anchor="start">store laptop and headphones</text>
+<text x="636" y="655.5294117647059" class="count" text-anchor="start">45,276   ·   3.31%</text>
+<rect x="636.0" y="661.5294117647059" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="661.5294117647059" width="8.14" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="677.6470588235294" class="label" text-anchor="start">arrange largest number</text>
+<text x="636" y="695.6470588235294" class="count" text-anchor="start">44,644   ·   3.26%</text>
+<rect x="636.0" y="701.6470588235294" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="701.6470588235294" width="8.02" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="717.7647058823529" class="label" text-anchor="start">cover blocks</text>
+<text x="636" y="735.7647058823529" class="count" text-anchor="start">38,333   ·   2.80%</text>
+<rect x="636.0" y="741.7647058823529" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="741.7647058823529" width="6.89" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="757.8823529411765" class="label" text-anchor="start">stack bowls</text>
+<text x="636" y="775.8823529411765" class="count" text-anchor="start">37,796   ·   2.76%</text>
+<rect x="636.0" y="781.8823529411765" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="781.8823529411765" width="6.79" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="798.0" class="label" text-anchor="start">swap blocks</text>
+<text x="636" y="816.0" class="count" text-anchor="start">33,790   ·   2.47%</text>
+<rect x="636.0" y="822.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="822.0" width="6.08" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="116.0" class="label" text-anchor="start">fill egg holder</text>
+<text x="914" y="134.0" class="count" text-anchor="start">32,428   ·   2.37%</text>
+<rect x="914.0" y="140.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="140.0" width="5.83" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="156.11764705882354" class="label" text-anchor="start">put bottles into dustbin</text>
+<text x="914" y="174.11764705882354" class="count" text-anchor="start">31,469   ·   2.30%</text>
+<rect x="914.0" y="180.11764705882354" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="180.11764705882354" width="5.66" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="196.23529411764707" class="label" text-anchor="start">play tic tac toe</text>
+<text x="914" y="214.23529411764707" class="count" text-anchor="start">28,580   ·   2.09%</text>
+<rect x="914.0" y="220.23529411764707" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="220.23529411764707" width="5.14" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="236.35294117647058" class="label" text-anchor="start">push T</text>
+<text x="914" y="254.35294117647058" class="count" text-anchor="start">28,094   ·   2.05%</text>
+<rect x="914.0" y="260.3529411764706" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="260.3529411764706" width="5.04" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="276.47058823529414" class="label" text-anchor="start">pour balls into vase</text>
+<text x="914" y="294.47058823529414" class="count" text-anchor="start">27,102   ·   1.98%</text>
+<rect x="914.0" y="300.47058823529414" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="300.47058823529414" width="4.87" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="316.5882352941177" class="label" text-anchor="start">press by number</text>
+<text x="914" y="334.5882352941177" class="count" text-anchor="start">26,429   ·   1.93%</text>
+<rect x="914.0" y="340.5882352941177" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="340.5882352941177" width="4.75" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="356.70588235294116" class="label" text-anchor="start">make kong</text>
+<text x="914" y="374.70588235294116" class="count" text-anchor="start">26,202   ·   1.91%</text>
+<rect x="914.0" y="380.70588235294116" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="380.70588235294116" width="4.70" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="396.8235294117647" class="label" text-anchor="start">insert tubes</text>
+<text x="914" y="414.8235294117647" class="count" text-anchor="start">24,064   ·   1.76%</text>
+<rect x="914.0" y="420.8235294117647" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="420.8235294117647" width="4.33" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="436.94117647058823" class="label" text-anchor="start">fold clothes</text>
+<text x="914" y="454.94117647058823" class="count" text-anchor="start">23,223   ·   1.70%</text>
+<rect x="914.0" y="460.94117647058823" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="460.94117647058823" width="4.18" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="477.05882352941177" class="label" text-anchor="start">play Xylophone</text>
+<text x="914" y="495.05882352941177" class="count" text-anchor="start">22,661   ·   1.65%</text>
+<rect x="914.0" y="501.05882352941177" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="501.05882352941177" width="4.06" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="517.1764705882354" class="label" text-anchor="start">pour liquid into cup</text>
+<text x="914" y="535.1764705882354" class="count" text-anchor="start">21,617   ·   1.58%</text>
+<rect x="914.0" y="541.1764705882354" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="541.1764705882354" width="3.89" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="557.2941176470588" class="label" text-anchor="start">swap T</text>
+<text x="914" y="575.2941176470588" class="count" text-anchor="start">19,265   ·   1.41%</text>
+<rect x="914.0" y="581.2941176470588" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="581.2941176470588" width="3.47" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="597.4117647058823" class="label" text-anchor="start">plug in charger</text>
+<text x="914" y="615.4117647058823" class="count" text-anchor="start">17,955   ·   1.31%</text>
+<rect x="914.0" y="621.4117647058823" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="621.4117647058823" width="3.22" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="637.5294117647059" class="label" text-anchor="start">stack blocks</text>
+<text x="914" y="655.5294117647059" class="count" text-anchor="start">17,605   ·   1.29%</text>
+<rect x="914.0" y="661.5294117647059" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="661.5294117647059" width="3.17" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="677.6470588235294" class="label" text-anchor="start">insert key</text>
+<text x="914" y="695.6470588235294" class="count" text-anchor="start">14,515   ·   1.06%</text>
+<rect x="914.0" y="701.6470588235294" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="701.6470588235294" width="2.61" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="717.7647058823529" class="label" text-anchor="start">deposit coin</text>
+<text x="914" y="735.7647058823529" class="count" text-anchor="start">13,788   ·   1.01%</text>
+<rect x="914.0" y="741.7647058823529" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="741.7647058823529" width="2.48" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="757.8823529411765" class="label" text-anchor="start">match and pick from conveyor</text>
+<text x="914" y="775.8823529411765" class="count" text-anchor="start">6,205   ·   0.45%</text>
+<rect x="914.0" y="781.8823529411765" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="781.8823529411765" width="1.11" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="0" y="867" class="type" text-anchor="start">Skill annotations</text>
+<rect x="0" y="887" width="586" height="338.0" rx="12" fill="#181d17"/>
+<text x="22" y="922" class="bench" text-anchor="start">BiCoord</text>
+<text x="564" y="922" class="total" text-anchor="end">5,442 skill annotations</text>
+<text x="22" y="958.0" class="label" text-anchor="start">place objects</text>
+<text x="22" y="976.0" class="count" text-anchor="start">3,992   ·   73.36%</text>
+<rect x="22.0" y="982.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="982.0" width="180.47" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="1033.3333333333333" class="label" text-anchor="start">acquire objects</text>
+<text x="22" y="1051.3333333333333" class="count" text-anchor="start">573   ·   10.53%</text>
+<rect x="22.0" y="1057.3333333333333" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="1057.3333333333333" width="25.90" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="1108.6666666666667" class="label" text-anchor="start">pour contents</text>
+<text x="22" y="1126.6666666666667" class="count" text-anchor="start">298   ·   5.48%</text>
+<rect x="22.0" y="1132.6666666666667" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="1132.6666666666667" width="13.48" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="1184.0" class="label" text-anchor="start">use tool</text>
+<text x="22" y="1202.0" class="count" text-anchor="start">198   ·   3.64%</text>
+<rect x="22.0" y="1208.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="1208.0" width="8.95" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="958.0" class="label" text-anchor="start">shake object</text>
+<text x="300" y="976.0" class="count" text-anchor="start">100   ·   1.84%</text>
+<rect x="300.0" y="982.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="982.0" width="4.53" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="1033.3333333333333" class="label" text-anchor="start">open object</text>
+<text x="300" y="1051.3333333333333" class="count" text-anchor="start">100   ·   1.84%</text>
+<rect x="300.0" y="1057.3333333333333" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="1057.3333333333333" width="4.53" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="1108.6666666666667" class="label" text-anchor="start">close object</text>
+<text x="300" y="1126.6666666666667" class="count" text-anchor="start">100   ·   1.84%</text>
+<rect x="300.0" y="1132.6666666666667" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="1132.6666666666667" width="4.53" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="1184.0" class="label" text-anchor="start">handover</text>
+<text x="300" y="1202.0" class="count" text-anchor="start">81   ·   1.49%</text>
+<rect x="300.0" y="1208.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="1208.0" width="3.67" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<rect x="614" y="887" width="586" height="338.0" rx="12" fill="#181d17"/>
+<text x="636" y="922" class="bench" text-anchor="start">RoboDojo</text>
+<text x="1178" y="922" class="total" text-anchor="end">12,167 skill annotations</text>
+<text x="636" y="958.0" class="label" text-anchor="start">place objects</text>
+<text x="636" y="976.0" class="count" text-anchor="start">4,060   ·   33.37%</text>
+<rect x="636.0" y="982.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="982.0" width="82.09" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="1003.2" class="label" text-anchor="start">reset</text>
+<text x="636" y="1021.2" class="count" text-anchor="start">3,024   ·   24.85%</text>
+<rect x="636.0" y="1027.2" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1027.2" width="61.13" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="1048.4" class="label" text-anchor="start">acquire objects</text>
+<text x="636" y="1066.4" class="count" text-anchor="start">998   ·   8.20%</text>
+<rect x="636.0" y="1072.4" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1072.4" width="20.17" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="1093.6" class="label" text-anchor="start">press object</text>
+<text x="636" y="1111.6" class="count" text-anchor="start">800   ·   6.58%</text>
+<rect x="636.0" y="1117.6" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1117.6" width="16.19" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="1138.8" class="label" text-anchor="start">observe</text>
+<text x="636" y="1156.8" class="count" text-anchor="start">700   ·   5.75%</text>
+<rect x="636.0" y="1162.8" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1162.8" width="14.15" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="1184.0" class="label" text-anchor="start">arrange objects</text>
+<text x="636" y="1202.0" class="count" text-anchor="start">600   ·   4.93%</text>
+<rect x="636.0" y="1208.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1208.0" width="12.13" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="958.0" class="label" text-anchor="start">handover</text>
+<text x="914" y="976.0" class="count" text-anchor="start">587   ·   4.82%</text>
+<rect x="914.0" y="982.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="982.0" width="11.86" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="1003.2" class="label" text-anchor="start">use tool</text>
+<text x="914" y="1021.2" class="count" text-anchor="start">400   ·   3.29%</text>
+<rect x="914.0" y="1027.2" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="1027.2" width="8.09" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="1048.4" class="label" text-anchor="start">twist objects</text>
+<text x="914" y="1066.4" class="count" text-anchor="start">300   ·   2.47%</text>
+<rect x="914.0" y="1072.4" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="1072.4" width="6.08" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="1093.6" class="label" text-anchor="start">push objects</text>
+<text x="914" y="1111.6" class="count" text-anchor="start">298   ·   2.45%</text>
+<rect x="914.0" y="1117.6" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="1117.6" width="6.03" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="1138.8" class="label" text-anchor="start">close object</text>
+<text x="914" y="1156.8" class="count" text-anchor="start">200   ·   1.64%</text>
+<rect x="914.0" y="1162.8" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="1162.8" width="4.03" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="1184.0" class="label" text-anchor="start">pour contents</text>
+<text x="914" y="1202.0" class="count" text-anchor="start">200   ·   1.64%</text>
+<rect x="914.0" y="1208.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="1208.0" width="4.03" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="0" y="1253" class="type" text-anchor="start">Primitive annotations</text>
+<rect x="0" y="1273" width="586" height="452.0" rx="12" fill="#181d17"/>
+<text x="22" y="1308" class="bench" text-anchor="start">BiCoord</text>
+<text x="564" y="1308" class="total" text-anchor="end">16,947 primitive segments</text>
+<text x="22" y="1344.0" class="label" text-anchor="start">Grasp</text>
+<text x="22" y="1362.0" class="count" text-anchor="start">6,489   ·   38.29%</text>
+<rect x="22.0" y="1368.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="1368.0" width="94.19" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="1429.0" class="label" text-anchor="start">Place</text>
+<text x="22" y="1447.0" class="count" text-anchor="start">5,711   ·   33.70%</text>
+<rect x="22.0" y="1453.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="1453.0" width="82.90" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="1514.0" class="label" text-anchor="start">Hold</text>
+<text x="22" y="1532.0" class="count" text-anchor="start">1,793   ·   10.58%</text>
+<rect x="22.0" y="1538.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="1538.0" width="26.03" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="1599.0" class="label" text-anchor="start">Carry</text>
+<text x="22" y="1617.0" class="count" text-anchor="start">917   ·   5.41%</text>
+<rect x="22.0" y="1623.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="1623.0" width="13.31" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="1684.0" class="label" text-anchor="start">Handover</text>
+<text x="22" y="1702.0" class="count" text-anchor="start">762   ·   4.50%</text>
+<rect x="22.0" y="1708.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="1708.0" width="11.07" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="1344.0" class="label" text-anchor="start">Push</text>
+<text x="300" y="1362.0" class="count" text-anchor="start">396   ·   2.34%</text>
+<rect x="300.0" y="1368.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="1368.0" width="5.76" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="1429.0" class="label" text-anchor="start">Align</text>
+<text x="300" y="1447.0" class="count" text-anchor="start">381   ·   2.25%</text>
+<rect x="300.0" y="1453.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="1453.0" width="5.54" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="1514.0" class="label" text-anchor="start">Pour</text>
+<text x="300" y="1532.0" class="count" text-anchor="start">298   ·   1.76%</text>
+<rect x="300.0" y="1538.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="1538.0" width="4.33" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="1599.0" class="label" text-anchor="start">Shake</text>
+<text x="300" y="1617.0" class="count" text-anchor="start">100   ·   0.59%</text>
+<rect x="300.0" y="1623.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="1623.0" width="1.45" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="1684.0" class="label" text-anchor="start">Pull</text>
+<text x="300" y="1702.0" class="count" text-anchor="start">100   ·   0.59%</text>
+<rect x="300.0" y="1708.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="1708.0" width="1.45" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<rect x="614" y="1273" width="586" height="452.0" rx="12" fill="#181d17"/>
+<text x="636" y="1308" class="bench" text-anchor="start">RoboDojo</text>
+<text x="1178" y="1308" class="total" text-anchor="end">53,350 primitive segments</text>
+<text x="636" y="1344.0" class="label" text-anchor="start">Grasp</text>
+<text x="636" y="1362.0" class="count" text-anchor="start">12,811   ·   24.01%</text>
+<rect x="636.0" y="1368.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1368.0" width="59.06" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="1386.5" class="label" text-anchor="start">Place</text>
+<text x="636" y="1404.5" class="count" text-anchor="start">12,211   ·   22.89%</text>
+<rect x="636.0" y="1410.5" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1410.5" width="56.31" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="1429.0" class="label" text-anchor="start">Reset</text>
+<text x="636" y="1447.0" class="count" text-anchor="start">9,624   ·   18.04%</text>
+<rect x="636.0" y="1453.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1453.0" width="44.38" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="1471.5" class="label" text-anchor="start">inactive</text>
+<text x="636" y="1489.5" class="count" text-anchor="start">9,063   ·   16.99%</text>
+<rect x="636.0" y="1495.5" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1495.5" width="41.80" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="1514.0" class="label" text-anchor="start">Handover</text>
+<text x="636" y="1532.0" class="count" text-anchor="start">2,314   ·   4.34%</text>
+<rect x="636.0" y="1538.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1538.0" width="10.68" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="1556.5" class="label" text-anchor="start">Press</text>
+<text x="636" y="1574.5" class="count" text-anchor="start">1,544   ·   2.89%</text>
+<rect x="636.0" y="1580.5" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1580.5" width="7.11" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="1599.0" class="label" text-anchor="start">Twist</text>
+<text x="636" y="1617.0" class="count" text-anchor="start">1,538   ·   2.88%</text>
+<rect x="636.0" y="1623.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1623.0" width="7.08" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="1641.5" class="label" text-anchor="start">Observe</text>
+<text x="636" y="1659.5" class="count" text-anchor="start">1,004   ·   1.88%</text>
+<rect x="636.0" y="1665.5" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1665.5" width="4.62" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="1684.0" class="label" text-anchor="start">Strike</text>
+<text x="636" y="1702.0" class="count" text-anchor="start">800   ·   1.50%</text>
+<rect x="636.0" y="1708.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1708.0" width="3.69" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="1344.0" class="label" text-anchor="start">Push</text>
+<text x="914" y="1362.0" class="count" text-anchor="start">642   ·   1.20%</text>
+<rect x="914.0" y="1368.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="1368.0" width="2.95" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="1386.5" class="label" text-anchor="start">Hold</text>
+<text x="914" y="1404.5" class="count" text-anchor="start">500   ·   0.94%</text>
+<rect x="914.0" y="1410.5" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="1410.5" width="2.31" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="1429.0" class="label" text-anchor="start">Carry</text>
+<text x="914" y="1447.0" class="count" text-anchor="start">499   ·   0.94%</text>
+<rect x="914.0" y="1453.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="1453.0" width="2.31" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="1471.5" class="label" text-anchor="start">Close</text>
+<text x="914" y="1489.5" class="count" text-anchor="start">200   ·   0.37%</text>
+<rect x="914.0" y="1495.5" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="1495.5" width="0.91" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="1514.0" class="label" text-anchor="start">Insert</text>
+<text x="914" y="1532.0" class="count" text-anchor="start">200   ·   0.37%</text>
+<rect x="914.0" y="1538.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="1538.0" width="0.91" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="1556.5" class="label" text-anchor="start">Pour</text>
+<text x="914" y="1574.5" class="count" text-anchor="start">200   ·   0.37%</text>
+<rect x="914.0" y="1580.5" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="1580.5" width="0.91" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="1599.0" class="label" text-anchor="start">operate device</text>
+<text x="914" y="1617.0" class="count" text-anchor="start">100   ·   0.19%</text>
+<rect x="914.0" y="1623.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="1623.0" width="0.47" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="1641.5" class="label" text-anchor="start">Use tool</text>
+<text x="914" y="1659.5" class="count" text-anchor="start">100   ·   0.19%</text>
+<rect x="914.0" y="1665.5" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="1665.5" width="0.47" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="0" y="1753" class="type" text-anchor="start">Indexed primitive memberships</text>
+<rect x="0" y="1773" width="586" height="414.0" rx="12" fill="#181d17"/>
+<text x="22" y="1808" class="bench" text-anchor="start">BiCoord</text>
+<text x="564" y="1808" class="total" text-anchor="end">846,525 primitive memberships</text>
+<text x="22" y="1844.0" class="label" text-anchor="start">Grasp</text>
+<text x="22" y="1862.0" class="count" text-anchor="start">362,756   ·   42.85%</text>
+<rect x="22.0" y="1868.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="1868.0" width="105.41" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="1919.5" class="label" text-anchor="start">Place</text>
+<text x="22" y="1937.5" class="count" text-anchor="start">276,545   ·   32.67%</text>
+<rect x="22.0" y="1943.5" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="1943.5" width="80.37" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="1995.0" class="label" text-anchor="start">Hold</text>
+<text x="22" y="2013.0" class="count" text-anchor="start">71,208   ·   8.41%</text>
+<rect x="22.0" y="2019.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="2019.0" width="20.69" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="2070.5" class="label" text-anchor="start">Carry</text>
+<text x="22" y="2088.5" class="count" text-anchor="start">45,108   ·   5.33%</text>
+<rect x="22.0" y="2094.5" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="2094.5" width="13.11" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="22" y="2146.0" class="label" text-anchor="start">Align</text>
+<text x="22" y="2164.0" class="count" text-anchor="start">28,044   ·   3.31%</text>
+<rect x="22.0" y="2170.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="22.0" y="2170.0" width="8.14" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="1844.0" class="label" text-anchor="start">Handover</text>
+<text x="300" y="1862.0" class="count" text-anchor="start">24,310   ·   2.87%</text>
+<rect x="300.0" y="1868.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="1868.0" width="7.06" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="1919.5" class="label" text-anchor="start">Pour</text>
+<text x="300" y="1937.5" class="count" text-anchor="start">13,463   ·   1.59%</text>
+<rect x="300.0" y="1943.5" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="1943.5" width="3.91" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="1995.0" class="label" text-anchor="start">Push</text>
+<text x="300" y="2013.0" class="count" text-anchor="start">12,968   ·   1.53%</text>
+<rect x="300.0" y="2019.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="2019.0" width="3.76" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="2070.5" class="label" text-anchor="start">Pull</text>
+<text x="300" y="2088.5" class="count" text-anchor="start">7,377   ·   0.87%</text>
+<rect x="300.0" y="2094.5" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="2094.5" width="2.14" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="300" y="2146.0" class="label" text-anchor="start">Shake</text>
+<text x="300" y="2164.0" class="count" text-anchor="start">4,746   ·   0.56%</text>
+<rect x="300.0" y="2170.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="300.0" y="2170.0" width="1.38" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<rect x="614" y="1773" width="586" height="414.0" rx="12" fill="#181d17"/>
+<text x="636" y="1808" class="bench" text-anchor="start">RoboDojo</text>
+<text x="1178" y="1808" class="total" text-anchor="end">1,465,344 primitive memberships</text>
+<text x="636" y="1844.0" class="label" text-anchor="start">Grasp</text>
+<text x="636" y="1862.0" class="count" text-anchor="start">498,627   ·   34.03%</text>
+<rect x="636.0" y="1868.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1868.0" width="83.71" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="1887.142857142857" class="label" text-anchor="start">place precise</text>
+<text x="636" y="1905.142857142857" class="count" text-anchor="start">320,269   ·   21.86%</text>
+<rect x="636.0" y="1911.142857142857" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1911.142857142857" width="53.78" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="1930.2857142857142" class="label" text-anchor="start">Place</text>
+<text x="636" y="1948.2857142857142" class="count" text-anchor="start">163,853   ·   11.18%</text>
+<rect x="636.0" y="1954.2857142857142" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1954.2857142857142" width="27.50" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="1973.4285714285716" class="label" text-anchor="start">Handover</text>
+<text x="636" y="1991.4285714285716" class="count" text-anchor="start">100,245   ·   6.84%</text>
+<rect x="636.0" y="1997.4285714285716" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="1997.4285714285716" width="16.83" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="2016.5714285714287" class="label" text-anchor="start">Hold</text>
+<text x="636" y="2034.5714285714287" class="count" text-anchor="start">95,602   ·   6.52%</text>
+<rect x="636.0" y="2040.5714285714287" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="2040.5714285714287" width="16.04" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="2059.714285714286" class="label" text-anchor="start">Twist</text>
+<text x="636" y="2077.714285714286" class="count" text-anchor="start">76,270   ·   5.20%</text>
+<rect x="636.0" y="2083.714285714286" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="2083.714285714286" width="12.79" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="2102.857142857143" class="label" text-anchor="start">Push</text>
+<text x="636" y="2120.857142857143" class="count" text-anchor="start">60,693   ·   4.14%</text>
+<rect x="636.0" y="2126.857142857143" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="2126.857142857143" width="10.18" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="636" y="2146.0" class="label" text-anchor="start">Press</text>
+<text x="636" y="2164.0" class="count" text-anchor="start">41,953   ·   2.86%</text>
+<rect x="636.0" y="2170.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="636.0" y="2170.0" width="7.04" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="1844.0" class="label" text-anchor="start">Use tool</text>
+<text x="914" y="1862.0" class="count" text-anchor="start">27,676   ·   1.89%</text>
+<rect x="914.0" y="1868.0" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="1868.0" width="4.65" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="1887.142857142857" class="label" text-anchor="start">Pour</text>
+<text x="914" y="1905.142857142857" class="count" text-anchor="start">26,099   ·   1.78%</text>
+<rect x="914.0" y="1911.142857142857" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="1911.142857142857" width="4.38" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="1930.2857142857142" class="label" text-anchor="start">Close</text>
+<text x="914" y="1948.2857142857142" class="count" text-anchor="start">14,013   ·   0.96%</text>
+<rect x="914.0" y="1954.2857142857142" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="1954.2857142857142" width="2.36" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="1973.4285714285716" class="label" text-anchor="start">Strike</text>
+<text x="914" y="1991.4285714285716" class="count" text-anchor="start">12,692   ·   0.87%</text>
+<rect x="914.0" y="1997.4285714285716" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="1997.4285714285716" width="2.14" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="2016.5714285714287" class="label" text-anchor="start">Carry</text>
+<text x="914" y="2034.5714285714287" class="count" text-anchor="start">10,732   ·   0.73%</text>
+<rect x="914.0" y="2040.5714285714287" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="2040.5714285714287" width="1.80" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="2059.714285714286" class="label" text-anchor="start">operate device</text>
+<text x="914" y="2077.714285714286" class="count" text-anchor="start">8,981   ·   0.61%</text>
+<rect x="914.0" y="2083.714285714286" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="2083.714285714286" width="1.50" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+<text x="914" y="2102.857142857143" class="label" text-anchor="start">Insert</text>
+<text x="914" y="2120.857142857143" class="count" text-anchor="start">7,639   ·   0.52%</text>
+<rect x="914.0" y="2126.857142857143" width="246" height="2" rx="1" fill="#ffffff" opacity=".045"/><rect x="914.0" y="2126.857142857143" width="1.28" height="2" rx="1" fill="#b6ee65" opacity=".8"/>
+</svg>
