@@ -77,5 +77,11 @@
     "source": "https://www.tongji.edu.cn/images/name.png",
     "sha256": "075ec146f6f7226973b0c41e4ea7f27fa783f2dc989802b3011020d1a8979694",
     "processing": "none"
+  },
+  {
+    "file": "microsoft-research.png",
+    "source": "Latest AWAM manuscript, first-page Microsoft Research logo",
+    "sha256": "3bc27b66eddf57c3a09920b8c9a2cf34024af424023c09e03b1f52a22b7dd24e",
+    "processing": "Extracted PDF image with its original alpha mask"
   }
 ]
